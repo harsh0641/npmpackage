@@ -1,0 +1,26 @@
+{
+  "name": "harshbuddy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh0641/npmpackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "harshbuddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh0641/npmpackage/issues"
+  },
+  "homepage": "https://github.com/harsh0641/npmpackage#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
